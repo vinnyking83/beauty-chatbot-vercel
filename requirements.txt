@@ -4,7 +4,7 @@ gradio>=4.0
 transformers>=4.44.0
 torch>=2.1
 sentence-transformers
-faiss-cpu  # CPU for Vercel free tier
+faiss-cpu
 accelerate
 sentencepiece
 huggingface-hub
