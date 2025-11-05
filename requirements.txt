@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+gradio>=4.0
+transformers>=4.44.0
+torch>=2.1
+sentence-transformers
+faiss-cpu  # CPU for Vercel free tier
+accelerate
+sentencepiece
+huggingface-hub
