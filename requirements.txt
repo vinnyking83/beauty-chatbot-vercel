@@ -1,10 +1,10 @@
-fastapi==0.115.0
-uvicorn==0.30.6
-gradio>=4.0
-transformers>=4.44.0
-torch>=2.1
+fastapi
+uvicorn
+gradio
+transformers
+torch
 sentence-transformers
 faiss-cpu
 accelerate
 sentencepiece
-huggingface-hub
+protobuf
